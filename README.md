@@ -3,3 +3,5 @@ Com estes dados montem um dashboard com alguns gráficos interativos que podem s
 Caso queira ver o dashboard funcionando : 
 
 https://dashboard-andrey-marques.streamlit.app/ 
+
+*O app pode estar off mas basta clicar no botão que ja vai carregar tudo novamente.*
